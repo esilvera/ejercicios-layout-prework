@@ -1,5 +1,21 @@
 /* your code here */
-
+header {
+	width: 600px;
+	height: 50px;
+	margin: auto;
+}
+nav {
+	width: 170px;
+	height: 300px;
+	margin-left: 500px;
+	position: absolute;
+}
+section {
+	width: 420px;
+	height: 300px;
+	margin-left: 680px;
+	position: absolute;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
